@@ -1,0 +1,37 @@
+id,cat,brand,manufacturer
+AC_BR,Accessories,Topeak,Topeak Inc
+AC_BS,Accessories,BikeHand,BikeHand Tools
+AC_BC,Accessories,Elite,Elite Italy
+AC_FE,Accessories,SKS,SKS Germany
+AC_HE,Accessories,Giro,Giro Sports
+AC_HP,Accessories,Osprey,Osprey Packs
+AC_LI,Accessories,Lezyne,Lezyne USA
+AC_LO,Accessories,Kryptonite,Kryptonite Security
+AC_PA,Accessories,Ortlieb,Ortlieb GmbH
+AC_PU,Accessories,Park Tool,Park Tool Co
+AC_TT,Accessories,Schwalbe,Schwalbe Tires
+BI_MB,Bikes,Trek,Trek Bicycle Corp
+BI_RB,Bikes,Specialized,Specialized Bicycle Components
+BI_TB,Bikes,Fuji,Fuji Bikes
+CL_BS,Clothing,Castelli,Castelli Cycling
+CL_CA,Clothing,Pearl Izumi,Pearl Izumi USA
+CL_GL,Clothing,Shimano,Shimano Corporation
+CL_JE,Clothing,Rapha,Rapha UK
+CL_SH,Clothing,Gore,Gore Wear
+CL_SO,Clothing,Santini,Santini Italy
+CL_TI,Clothing,2XU,2XU Sports
+CL_VE,Clothing,Endura,Endura Ltd
+CO_BB,Components,Shimano,Shimano Corporation
+CO_BR,Components,SRAM,SRAM LLC
+CO_CH,Components,KMC,KMC Chain Industrial
+CO_CS,Components,FSA,Full Speed Ahead
+CO_DE,Components,Shimano,Shimano Corporation
+CO_FO,Components,RockShox,RockShox (SRAM)
+CO_HB,Components,Ritchey,Ritchey Design
+CO_HS,Components,Cane Creek,Cane Creek Cycling
+CO_MF,Components,Santa Cruz,Santa Cruz Bicycles
+CO_PD,Components,Look,Look Cycle
+CO_RF,Components,Colnago,Colnago Italy
+CO_SA,Components,Prologo,Prologo Saddles
+CO_TF,Components,Trek,Trek Bicycle Corp
+CO_WH,Components,Mavic,Mavic France
